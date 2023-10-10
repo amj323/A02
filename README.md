@@ -21,5 +21,5 @@ PART 2: Glossary
 - Repository: A directory or storage space where your projects can live. It can be local to a folder on your computer, or it can be a storage space on GitHub or another online host.
 
 
-References: Hendela, Arthur (2023), "Introduction to Github and Webstorm". Presentation slides. Canvas [https://njit.instructure.com/courses/21539/files/3171291?module_item_id=687962](https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121)https://njit.instructure.com/courses/30780/files/5214587?module_item_id=1138121
+References: Hendela, Arthur (2023), "Introduction to Github and Webstorm". Presentation slides. Canvas [https://njit.instructure.com/courses/21539/files/3171291?module_item_id=687962]
 # A02
