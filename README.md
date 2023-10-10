@@ -1,9 +1,9 @@
 PART 1: Directions on Using Webstorm
-Download and Install WebStorm: You can download WebStorm from the official website: WebStorm Download
-After installing, open WebStorm.
-To integrate Git with WebStorm, navigate to File > Settings > Version Control > Git. Here, specify the path to the Git executable.
-Once Git is integrated, you can now easily Clone a Repository by going to File > New > Project from Version Control > Git.
-You can now Commit and Push changes directly from WebStorm.
+1. Download and Install WebStorm: You can download WebStorm from the official website: WebStorm Download
+2. After installing, open WebStorm.
+3. To integrate Git with WebStorm, navigate to File > Settings > Version Control > Git. Here, specify the path to the Git executable.
+4. Once Git is integrated, you can now easily Clone a Repository by going to File > New > Project from Version Control > Git.
+5. You can now Commit and Push changes directly from WebStorm.
 
 
 PART 2: Glossary
